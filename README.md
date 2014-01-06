@@ -1,4 +1,4 @@
-prestashop-find-replace
+Prestashop Find Replace
 =======================
 
-Find and replace text in products or categories
+Find and replace text in products or categories.
